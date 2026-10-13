@@ -4,10 +4,6 @@
   "private": true,
   "type": "module",
   "description": "MOOD Studio — Artistic Photography Website & MVP Booking System",
-  "workspaces": [
-    "backend",
-    "frontend"
-  ],
   "scripts": {
     "dev": "npm --prefix frontend run dev",
     "dev:backend": "npm --prefix backend run dev",
