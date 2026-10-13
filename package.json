@@ -1,0 +1,14 @@
+{
+  "name": "mood-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MOOD Studio — Artistic Photography Website & MVP Booking System",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev",
+    "test": "npm --prefix backend test",
+    "seed:admin": "npm --prefix backend run seed:admin",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
